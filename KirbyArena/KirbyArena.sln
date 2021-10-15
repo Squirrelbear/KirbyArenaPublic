@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KirbyArena", "KirbyArena\KirbyArena\KirbyArena.csproj", "{FBC35650-2E55-4FCB-836A-403BE3AF1F39}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "KirbyArenaContent", "KirbyArena\KirbyArenaContent\KirbyArenaContent.contentproj", "{825E03C7-4C8E-4A48-AED1-909DF62DB093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC35650-2E55-4FCB-836A-403BE3AF1F39}.Debug|x86.ActiveCfg = Debug|x86
+		{FBC35650-2E55-4FCB-836A-403BE3AF1F39}.Debug|x86.Build.0 = Debug|x86
+		{FBC35650-2E55-4FCB-836A-403BE3AF1F39}.Release|x86.ActiveCfg = Release|x86
+		{FBC35650-2E55-4FCB-836A-403BE3AF1F39}.Release|x86.Build.0 = Release|x86
+		{825E03C7-4C8E-4A48-AED1-909DF62DB093}.Debug|x86.ActiveCfg = Debug|x86
+		{825E03C7-4C8E-4A48-AED1-909DF62DB093}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

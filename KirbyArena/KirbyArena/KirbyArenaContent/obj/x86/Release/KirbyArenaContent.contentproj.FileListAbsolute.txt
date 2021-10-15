@@ -1,0 +1,6 @@
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArenaContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArenaContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArenaContent\obj\x86\Release\KirbyArenaContent.contentprojResolveAssemblyReference.cache
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArenaContent\obj\x86\Release\KirbyArenaContent.contentprojResolveAssemblyReference.cache
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArenaContent\obj\x86\Release\KirbyArenaContent.contentprojResolveAssemblyReference.cache
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArenaContent\obj\x86\Release\KirbyArenaContent.contentprojResolveAssemblyReference.cache

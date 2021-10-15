@@ -1,0 +1,950 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>WndContent\Components\leftarrow.png</Source>
+      <Name>WndContent\Components\leftarrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\Components\leftarrow.xnb</Output>
+      <Time>2012-10-02T18:05:57+09:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\Components\rightarrow.png</Source>
+      <Name>WndContent\Components\rightarrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\Components\rightarrow.xnb</Output>
+      <Time>2012-10-02T18:05:28+09:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\MainMenu\snowflake.png</Source>
+      <Name>WndContent\MainMenu\snowflake</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\MainMenu\snowflake.xnb</Output>
+      <Time>2012-12-11T20:09:56+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\presentblue.png</Source>
+      <Name>Sprites\Items\presentblue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Items\presentblue.xnb</Output>
+      <Time>2013-01-02T15:09:43+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\presentgreen.png</Source>
+      <Name>Sprites\Items\presentgreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Items\presentgreen.xnb</Output>
+      <Time>2013-01-02T15:09:43+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\presentred.png</Source>
+      <Name>Sprites\Items\presentred</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Items\presentred.xnb</Output>
+      <Time>2013-01-02T15:09:43+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\MainMenu\mainmenubg.png</Source>
+      <Name>WndContent\MainMenu\mainmenubg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\MainMenu\mainmenubg.xnb</Output>
+      <Time>2012-12-11T21:56:07+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\basic.png</Source>
+      <Name>Sprites\Blocks\basic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\basic.xnb</Output>
+      <Time>2012-12-19T13:08:20+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\Components\btnOut.png</Source>
+      <Name>WndContent\Components\btnOut</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\Components\btnOut.xnb</Output>
+      <Time>2012-12-29T00:24:00+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\Components\btnOver.png</Source>
+      <Name>WndContent\Components\btnOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\Components\btnOver.xnb</Output>
+      <Time>2012-12-29T00:24:00+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\HUD\heartfull.png</Source>
+      <Name>WndContent\HUD\heartfull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\HUD\heartfull.xnb</Output>
+      <Time>2012-12-29T16:29:37+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\HUD\hearthalf.png</Source>
+      <Name>WndContent\HUD\hearthalf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\HUD\hearthalf.xnb</Output>
+      <Time>2012-12-29T16:29:37+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Kirby\kirby_blow.png</Source>
+      <Name>Sprites\Kirby\kirby_blow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Kirby\kirby_blow.xnb</Output>
+      <Time>2013-01-01T18:45:53+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Kirby\kirby_stun.png</Source>
+      <Name>Sprites\Kirby\kirby_stun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Kirby\kirby_stun.xnb</Output>
+      <Time>2013-01-01T18:45:53+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Kirby\kirby_suck.png</Source>
+      <Name>Sprites\Kirby\kirby_suck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Kirby\kirby_suck.xnb</Output>
+      <Time>2013-01-01T18:45:53+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Kirby\kirby_suck_walk.png</Source>
+      <Name>Sprites\Kirby\kirby_suck_walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Kirby\kirby_suck_walk.xnb</Output>
+      <Time>2013-01-01T18:45:53+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Kirby\kirby_walk.png</Source>
+      <Name>Sprites\Kirby\kirby_walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Kirby\kirby_walk.xnb</Output>
+      <Time>2013-01-01T18:45:53+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Kirby\link_blow.png</Source>
+      <Name>Sprites\Kirby\link_blow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Kirby\link_blow.xnb</Output>
+      <Time>2013-01-01T18:45:53+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Kirby\link_suck.png</Source>
+      <Name>Sprites\Kirby\link_suck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Kirby\link_suck.xnb</Output>
+      <Time>2013-01-01T18:45:53+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Kirby\link_suck_walk.png</Source>
+      <Name>Sprites\Kirby\link_suck_walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Kirby\link_suck_walk.xnb</Output>
+      <Time>2013-01-01T18:45:53+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Kirby\link_sword.png</Source>
+      <Name>Sprites\Kirby\link_sword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Kirby\link_sword.xnb</Output>
+      <Time>2013-01-01T18:45:53+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Kirby\link_walk.png</Source>
+      <Name>Sprites\Kirby\link_walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Kirby\link_walk.xnb</Output>
+      <Time>2013-01-01T18:45:53+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\LevelIcons\LevelIconChristmasOff.png</Source>
+      <Name>WndContent\LevelIcons\LevelIconChristmasOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\LevelIcons\LevelIconChristmasOff.xnb</Output>
+      <Time>2013-01-02T15:10:24+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\LevelIcons\LevelIconChristmasOn.png</Source>
+      <Name>WndContent\LevelIcons\LevelIconChristmasOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\LevelIcons\LevelIconChristmasOn.xnb</Output>
+      <Time>2013-01-02T15:10:24+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\HUD\DialogBackground.png</Source>
+      <Name>WndContent\HUD\DialogBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\HUD\DialogBackground.xnb</Output>
+      <Time>2013-01-05T01:05:19+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\heartcollectible.png</Source>
+      <Name>Sprites\Items\heartcollectible</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Items\heartcollectible.xnb</Output>
+      <Time>2013-01-06T15:16:21+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\SpeedCollectible.png</Source>
+      <Name>Sprites\Items\SpeedCollectible</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Items\SpeedCollectible.xnb</Output>
+      <Time>2013-01-06T15:16:21+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\LevelBackgrounds\levelsnowbg.png</Source>
+      <Name>WndContent\LevelBackgrounds\levelsnowbg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\LevelBackgrounds\levelsnowbg.xnb</Output>
+      <Time>2013-01-06T15:17:39+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\SwordItem.png</Source>
+      <Name>Sprites\Items\SwordItem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Items\SwordItem.xnb</Output>
+      <Time>2013-01-06T15:35:59+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\CoinItem.png</Source>
+      <Name>Sprites\Items\CoinItem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Items\CoinItem.xnb</Output>
+      <Time>2013-01-06T15:44:59+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\Components\BlackBorder.png</Source>
+      <Name>WndContent\Components\BlackBorder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\Components\BlackBorder.xnb</Output>
+      <Time>2013-01-06T16:11:50+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\MainMenu\othermenubg.png</Source>
+      <Name>WndContent\MainMenu\othermenubg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\MainMenu\othermenubg.xnb</Output>
+      <Time>2013-01-06T19:04:12+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\MainMenu\HelpImages_gamepad.png</Source>
+      <Name>WndContent\MainMenu\HelpImages_gamepad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\MainMenu\HelpImages_gamepad.xnb</Output>
+      <Time>2013-01-06T22:37:39+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\MainMenu\HelpImages_howplay.png</Source>
+      <Name>WndContent\MainMenu\HelpImages_howplay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\MainMenu\HelpImages_howplay.xnb</Output>
+      <Time>2013-01-11T17:39:46+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\MainMenu\HelpImages_keyboard.png</Source>
+      <Name>WndContent\MainMenu\HelpImages_keyboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\MainMenu\HelpImages_keyboard.xnb</Output>
+      <Time>2013-01-06T22:37:39+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\tree.png</Source>
+      <Name>Sprites\Blocks\tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\tree.xnb</Output>
+      <Time>2013-01-11T12:04:13+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\star.png</Source>
+      <Name>Sprites\Items\star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Items\star.xnb</Output>
+      <Time>2013-01-11T12:04:35+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\LevelBackgrounds\levelislandbg.png</Source>
+      <Name>WndContent\LevelBackgrounds\levelislandbg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\LevelBackgrounds\levelislandbg.xnb</Output>
+      <Time>2013-01-11T16:24:28+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\basicsand.png</Source>
+      <Name>Sprites\Blocks\basicsand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\basicsand.xnb</Output>
+      <Time>2013-01-11T16:24:44+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\LevelIcons\LevelIconIslandOff.png</Source>
+      <Name>WndContent\LevelIcons\LevelIconIslandOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\LevelIcons\LevelIconIslandOff.xnb</Output>
+      <Time>2013-01-11T17:12:41+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\LevelIcons\LevelIconIslandOn.png</Source>
+      <Name>WndContent\LevelIcons\LevelIconIslandOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\LevelIcons\LevelIconIslandOn.xnb</Output>
+      <Time>2013-01-11T17:12:41+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\palm.png</Source>
+      <Name>Sprites\Blocks\palm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\palm.xnb</Output>
+      <Time>2013-01-11T17:13:27+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Star2.png</Source>
+      <Name>Sprites\Items\Star2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Items\Star2.xnb</Output>
+      <Time>2013-01-11T17:23:38+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ExtraContent\cannonball.png</Source>
+      <Name>Sprites\ExtraContent\cannonball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\ExtraContent\cannonball.xnb</Output>
+      <Time>2013-01-16T00:02:30+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ExtraContent\cannontemp.png</Source>
+      <Name>Sprites\ExtraContent\cannontemp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\ExtraContent\cannontemp.xnb</Output>
+      <Time>2013-01-16T00:02:30+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ExtraContent\ship_bottom.png</Source>
+      <Name>Sprites\ExtraContent\ship_bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\ExtraContent\ship_bottom.xnb</Output>
+      <Time>2013-01-16T00:02:30+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ExtraContent\ship_top.png</Source>
+      <Name>Sprites\ExtraContent\ship_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\ExtraContent\ship_top.xnb</Output>
+      <Time>2013-01-16T00:02:30+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ExtraContent\cannon.png</Source>
+      <Name>Sprites\ExtraContent\cannon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\ExtraContent\cannon.xnb</Output>
+      <Time>2013-01-20T17:25:41+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Shield.png</Source>
+      <Name>Sprites\Items\Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Items\Shield.xnb</Output>
+      <Time>2013-02-12T16:07:06+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\cactus.png</Source>
+      <Name>Sprites\Blocks\cactus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\cactus.xnb</Output>
+      <Time>2013-04-01T16:54:35+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\tiledesert.png</Source>
+      <Name>Sprites\Blocks\tiledesert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\tiledesert.xnb</Output>
+      <Time>2013-04-01T16:55:17+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\LevelIcons\LevelIconDesertOff.png</Source>
+      <Name>WndContent\LevelIcons\LevelIconDesertOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\LevelIcons\LevelIconDesertOff.xnb</Output>
+      <Time>2013-04-01T16:53:27+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\LevelIcons\LevelIconDesertOn.png</Source>
+      <Name>WndContent\LevelIcons\LevelIconDesertOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\LevelIcons\LevelIconDesertOn.xnb</Output>
+      <Time>2013-04-01T16:53:44+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\LevelBackgrounds\desertbg.png</Source>
+      <Name>WndContent\LevelBackgrounds\desertbg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\LevelBackgrounds\desertbg.xnb</Output>
+      <Time>2013-04-01T17:26:09.1698123+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ExtraContent\mexicannyanlarge.png</Source>
+      <Name>Sprites\ExtraContent\mexicannyanlarge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\ExtraContent\mexicannyanlarge.xnb</Output>
+      <Time>2013-04-01T23:18:01+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ExtraContent\nyantrail.png</Source>
+      <Name>Sprites\ExtraContent\nyantrail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\ExtraContent\nyantrail.xnb</Output>
+      <Time>2013-04-01T23:38:30+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ExtraContent\nyantrailend.png</Source>
+      <Name>Sprites\ExtraContent\nyantrailend</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\ExtraContent\nyantrailend.xnb</Output>
+      <Time>2013-04-01T23:38:12+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\ninjaobstacle.png</Source>
+      <Name>Sprites\Blocks\ninjaobstacle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\ninjaobstacle.xnb</Output>
+      <Time>2013-04-07T18:33:11+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ExtraContent\ninjasheet.png</Source>
+      <Name>Sprites\ExtraContent\ninjasheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\ExtraContent\ninjasheet.xnb</Output>
+      <Time>2013-04-07T17:58:50+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ExtraContent\ninjastar.png</Source>
+      <Name>Sprites\ExtraContent\ninjastar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\ExtraContent\ninjastar.xnb</Output>
+      <Time>2013-04-07T17:32:43+09:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\LevelBackgrounds\ninjabg.png</Source>
+      <Name>WndContent\LevelBackgrounds\ninjabg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\LevelBackgrounds\ninjabg.xnb</Output>
+      <Time>2013-04-07T16:34:49+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\ninjabasictile.png</Source>
+      <Name>Sprites\Blocks\ninjabasictile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\ninjabasictile.xnb</Output>
+      <Time>2013-04-07T17:44:10+09:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\LevelIcons\LevelIconNinjaOff.png</Source>
+      <Name>WndContent\LevelIcons\LevelIconNinjaOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\LevelIcons\LevelIconNinjaOff.xnb</Output>
+      <Time>2013-04-07T22:34:19+09:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\LevelIcons\LevelIconNinjaOn.png</Source>
+      <Name>WndContent\LevelIcons\LevelIconNinjaOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\LevelIcons\LevelIconNinjaOn.xnb</Output>
+      <Time>2013-04-07T22:33:53+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\pacman0011.png</Source>
+      <Name>Sprites\Blocks\pacman0011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\pacman0011.xnb</Output>
+      <Time>2013-05-29T10:31:18+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\pacman0101.png</Source>
+      <Name>Sprites\Blocks\pacman0101</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\pacman0101.xnb</Output>
+      <Time>2013-05-29T10:29:49+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\pacman0110.png</Source>
+      <Name>Sprites\Blocks\pacman0110</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\pacman0110.xnb</Output>
+      <Time>2013-05-29T10:32:53+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\pacman1001.png</Source>
+      <Name>Sprites\Blocks\pacman1001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\pacman1001.xnb</Output>
+      <Time>2013-05-29T10:31:56+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\pacman1010.png</Source>
+      <Name>Sprites\Blocks\pacman1010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\pacman1010.xnb</Output>
+      <Time>2013-05-29T10:29:12+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\pacman1100.png</Source>
+      <Name>Sprites\Blocks\pacman1100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\pacman1100.xnb</Output>
+      <Time>2013-05-29T10:32:25+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\pacman1111.png</Source>
+      <Name>Sprites\Blocks\pacman1111</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\pacman1111.xnb</Output>
+      <Time>2013-05-29T10:30:37+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ExtraContent\ghost.png</Source>
+      <Name>Sprites\ExtraContent\ghost</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\ExtraContent\ghost.xnb</Output>
+      <Time>2013-05-29T10:27:53+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ExtraContent\pacman.png</Source>
+      <Name>Sprites\ExtraContent\pacman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\ExtraContent\pacman.xnb</Output>
+      <Time>2013-05-29T10:23:17+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\pacman0000.png</Source>
+      <Name>Sprites\Blocks\pacman0000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\pacman0000.xnb</Output>
+      <Time>2013-05-29T14:18:35+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\pacman0001.png</Source>
+      <Name>Sprites\Blocks\pacman0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\pacman0001.xnb</Output>
+      <Time>2013-05-29T14:19:26+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\pacman0010.png</Source>
+      <Name>Sprites\Blocks\pacman0010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\pacman0010.xnb</Output>
+      <Time>2013-05-29T14:20:23+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\pacman0100.png</Source>
+      <Name>Sprites\Blocks\pacman0100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\pacman0100.xnb</Output>
+      <Time>2013-05-29T14:20:13+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\pacman0111.png</Source>
+      <Name>Sprites\Blocks\pacman0111</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\pacman0111.xnb</Output>
+      <Time>2013-05-29T13:18:34+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\pacman1000.png</Source>
+      <Name>Sprites\Blocks\pacman1000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\pacman1000.xnb</Output>
+      <Time>2013-05-29T14:19:39+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\pacman1011.png</Source>
+      <Name>Sprites\Blocks\pacman1011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\pacman1011.xnb</Output>
+      <Time>2013-05-29T13:21:56+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\pacman1101.png</Source>
+      <Name>Sprites\Blocks\pacman1101</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\pacman1101.xnb</Output>
+      <Time>2013-05-29T13:18:48+09:30</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blocks\pacman1110.png</Source>
+      <Name>Sprites\Blocks\pacman1110</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Sprites\Blocks\pacman1110.xnb</Output>
+      <Time>2013-05-29T13:21:08+09:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\Fonts\hugeFont.spritefont</Source>
+      <Name>WndContent\Fonts\hugeFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\Fonts\hugeFont.xnb</Output>
+      <Time>2011-10-05T13:12:43+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\Fonts\largeFont.spritefont</Source>
+      <Name>WndContent\Fonts\largeFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\Fonts\largeFont.xnb</Output>
+      <Time>2011-10-05T13:12:43+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\Fonts\mediumFont.spritefont</Source>
+      <Name>WndContent\Fonts\mediumFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\Fonts\mediumFont.xnb</Output>
+      <Time>2011-10-05T13:12:43+10:30</Time>
+    </Item>
+    <Item>
+      <Source>WndContent\Fonts\smallFont.spritefont</Source>
+      <Name>WndContent\Fonts\smallFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\WndContent\Fonts\smallFont.xnb</Output>
+      <Time>2011-10-05T13:12:43+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Christmas_Greengreen.mp3</Source>
+      <Name>Audio\Christmas_Greengreen</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Christmas_Greengreen.xnb</Output>
+      <Extra>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Christmas_Greengreen.wma</Extra>
+      <Time>2012-12-11T12:58:01.7552119+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SSBM_FountainOfDreams.mp3</Source>
+      <Name>Audio\SSBM_FountainOfDreams</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\SSBM_FountainOfDreams.xnb</Output>
+      <Extra>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\SSBM_FountainOfDreams.wma</Extra>
+      <Time>2012-12-11T12:58:02.1752359+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Kirby64Track04Popstar.mp3</Source>
+      <Name>Audio\Kirby64Track04Popstar</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Kirby64Track04Popstar.xnb</Output>
+      <Extra>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Kirby64Track04Popstar.wma</Extra>
+      <Time>2013-01-10T15:51:44.3738167+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Kirby64Track12BattlewithComrades.mp3</Source>
+      <Name>Audio\Kirby64Track12BattlewithComrades</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Kirby64Track12BattlewithComrades.xnb</Output>
+      <Extra>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Kirby64Track12BattlewithComrades.wma</Extra>
+      <Time>2013-01-10T15:51:44.5588273+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Kirby64Track14BossBattle.mp3</Source>
+      <Name>Audio\Kirby64Track14BossBattle</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Kirby64Track14BossBattle.xnb</Output>
+      <Extra>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Kirby64Track14BossBattle.wma</Extra>
+      <Time>2013-01-10T15:51:44.5948294+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Kirby64Track16RockStar.mp3</Source>
+      <Name>Audio\Kirby64Track16RockStar</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Kirby64Track16RockStar.xnb</Output>
+      <Extra>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Kirby64Track16RockStar.wma</Extra>
+      <Time>2013-01-10T15:51:44.6348316+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Kirby64Track18InsidetheRuins.mp3</Source>
+      <Name>Audio\Kirby64Track18InsidetheRuins</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Kirby64Track18InsidetheRuins.xnb</Output>
+      <Extra>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Kirby64Track18InsidetheRuins.wma</Extra>
+      <Time>2013-01-10T15:51:44.6678335+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Kirby64Track20AquaStar.mp3</Source>
+      <Name>Audio\Kirby64Track20AquaStar</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Kirby64Track20AquaStar.xnb</Output>
+      <Extra>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Kirby64Track20AquaStar.wma</Extra>
+      <Time>2013-01-10T15:51:44.7368375+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Kirby64Track21DowntheMountainStream.mp3</Source>
+      <Name>Audio\Kirby64Track21DowntheMountainStream</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Kirby64Track21DowntheMountainStream.xnb</Output>
+      <Extra>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Kirby64Track21DowntheMountainStream.wma</Extra>
+      <Time>2013-01-10T15:51:44.7738396+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Kirby64Track25Shiverstar.mp3</Source>
+      <Name>Audio\Kirby64Track25Shiverstar</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Kirby64Track25Shiverstar.xnb</Output>
+      <Extra>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\Kirby64Track25Shiverstar.wma</Extra>
+      <Time>2013-01-10T15:51:44.8488439+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\KirbyAirRideTrack2.mp3</Source>
+      <Name>Audio\KirbyAirRideTrack2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\KirbyAirRideTrack2.xnb</Output>
+      <Extra>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\KirbyAirRideTrack2.wma</Extra>
+      <Time>2013-01-10T15:51:44.9298485+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\KirbySuperStarUltra01MaskedDededeTheme.mp3</Source>
+      <Name>Audio\KirbySuperStarUltra01MaskedDededeTheme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\KirbySuperStarUltra01MaskedDededeTheme.xnb</Output>
+      <Extra>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\KirbySuperStarUltra01MaskedDededeTheme.wma</Extra>
+      <Time>2013-01-10T15:51:45.0978581+10:30</Time>
+    </Item>
+    <Item>
+      <Source>Audio\KirbySuperStarUltra02GalactaKnight.mp3</Source>
+      <Name>Audio\KirbySuperStarUltra02GalactaKnight</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\KirbySuperStarUltra02GalactaKnight.xnb</Output>
+      <Extra>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\Audio\KirbySuperStarUltra02GalactaKnight.wma</Extra>
+      <Time>2013-01-10T15:51:45.3008697+10:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArenaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArenaContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+09:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+09:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+09:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-06-17T10:59:17.6032057+09:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,3 @@
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArenaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArenaContent\obj\x86\Debug\KirbyArenaContent.contentprojResolveAssemblyReference.cache
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArenaContent\obj\x86\Debug\KirbyArenaContent.contentprojResolveAssemblyReference.cache

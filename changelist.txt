@@ -1,0 +1,106 @@
+Changelist 1.0.7
+* Added possible fix for stun preventing AI from using items sucked in after being stunned
+* Changed priority for AI when attacking to prefer using the sucked in item over the Link attack 
+* Made minor changes removing TODOs
+* Fixed bug where the player's bonus score did not include the kill bonus of +50.
+* Fixed bug where player 1 was capped to the initial lives as the maximum
+* Fixed bug where shield incorrectly mitigated healing
+* Added threat rating system for improved AI awareness
+* Added action history system for AI to remember previous actions
+* Fixed bug where AI would attempt to collect present when they couldn't
+* Changed AI to prefer to only collect Link gear when they don't have it or when it is about to run out
+* Implemented threat considerations to enable confrontation avoidance
+* AI now will move to random locations when there is nothing to do. 
+* AI will now attempt to prevent scenarios that cause infinite loops early into the loop
+   - this will require ongoing testing and may continue to be adjusted in future changes
+* Added Restart option to the pause game menu
+* Adjusted location and size of health text to allow for space sharing with status icons
+* Adjusted status icons so they correctly fitted into the box with the other content
+* Added modification to AI to make them more aggressive depending on the difficulty when they pickup a present
+* Added initial classes and configuration to enable a PacMan themed level
+* Added extra loop prevention by including at 40% chance to pause for 250ms or until a different action can be selected
+
+Changelist 1.0.6:
+* Doubled the attack speed when using the link sword
+* Added shield item
+* Made AI aware of how to use shield items
+* Incorporated use of the shield item for players
+* Added an additional key as a use action for activating the shield
+* Reduced the spawn chances for normal spawns:
+  - present reduced by 5%
+  - speed reduced by 2%
+  - link gear reduced by 2%
+* 9% chance for shield to spawn on normal drops
+* reduced chance for speed to spawn from presents by 10%
+* 10% chance for shield to spawn from presents
+* Added option to change the key binding for "Use Action" to enable the shield
+* All stuns reduced to 1.5 seconds down from 3 seconds
+* Reduced damage done by present to 0.5 hearts down from 1 heart
+* Changed order of effects so presents damage is applied before the stun effect
+  - This is to allow the shield to mitigate the damage of presents
+* Reduced sword to 0.5 from 1 hearts damage
+* Increased maximum hearts to 10
+* Changed gameplay to allow any non-unlimited mode to increase hearts passed the initial amount
+* Changed text to reflect this for the option to "Initial Lives"
+* Moved health bar out of main HUD and display is now to the side of the screen for hearts
+* Text for health now shows with a smaller font in the original location within the player UI
+* Added transparency to shield when activated to show decreasing shield strength
+
+Changelist 1.0.5:
+* Changed text colours to use more black in the menus than maroon.
+* Changed default loading of Game Options to occur when first request happens
+* Modified ToggleOption to use default of black text and provided a method to change the colour.
+* Extended game options to include file storage of key bindings
+* Created a key binder and added key binding options to the options window
+* Extended Level and Player classes to support AI interfaces
+* Simplied the Player object to provide simplier interfaces for AI
+* Created an Objective based AI that makes turn based tactical decisions
+* Modified existing AStar to work with Kirby Arena
+* Added preliminary danger awareness for AI to Ninja Level 
+* Modified the post game window to always display 2 players
+* Changed Singleplayer game mode to spawn an AI controlled Kirby
+* Fixed bug: Player will no longer appear to glitch and move without direction change
+* Improved functionality of AudioManager (particularly the mute option)
+* Added audio controls to options window
+* Audio volume and muting options persist between game sessions
+* Corrected grammar error in loading text
+* Added 6 additional hint text messages
+* Changed singleplayer and versus victory to be entirely based on score
+* Added bonus score for being the one to get a kill in versus or singleplayer of 50 points
+
+Changelist 1.0.4:
+* Fixed bug in Desert Level that caused collision with player 1 to effect player 2
+* Reduced damage for sword attack from 1.5 to 1
+* Restructured the player class to enable AI development
+* Changed the past game results to always show scores for two players (uses the Versus calculations)
+
+Changelist 1.0.3:
+* Added Ninja level
+* Added Ninjas to ninja level that change properties based on difficulty
+* Modified GameObject to allow external objects to call setCanEnter for player/monster.
+* Modified HUD to allow changing of the timer colour
+* Modified Ninja level to use white colour for the HUD instead of the normal colour
+
+Changelist 1.0.2:
+* Fixed timer bug that caused a regular lost portion of time.
+* Extended GUI functionality to include mouse input and other performance and bug changes.
+* Added Desert Level
+* Added Nyan to desert level 
+* Configured varying difficulty levels for Nyan
+* Increased damage of link attack from 0.5 to 1.5 on hit
+* Items now no longer can be sucked in if an item is already sucked in
+* Items that require being sucked in (presents) when stepped on are no longer collected unless no item is held
+* Changed default game mode to "2 player versus"
+
+Changelist 1.0.1:
+* Added Ships that fire cannon balls at rates depending on difficulty to the Island level.
+* Stun now removes any Link powerup effect. (This fixed a bug where being stunned would hide the Link outfit anyway and then it would reappear when certain state changes occured.)
+* Removed debug output that was incorrectly still included in PlayerStatPanel.
+* Removed unused class InputTrigger.
+* Removed unused variable in WndHelp.
+* Removed unneeded additional reference to audio manger in Level.
+* Fixed level timer showing the max time after level end by timer triggering.Now clears to 0 when this occurs.
+* Extended functionality of Animated Object to allow setting of sprite effects
+* Made ships and cannons display always in exactly the same way independent of screen resolution.
+* Made cannon ball speed dependent on screen size to make them always the same relative speed.
+* Fixed bug where a player that hasn't moved yet can't be attacked.

@@ -1,0 +1,578 @@
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\playerSprites.xnb
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\leftarrow.xnb
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\rightarrow.xnb
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\background.xnb
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\out.xnb
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\over.xnb
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\hugeFont.xnb
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\largeFont.xnb
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\mediumFont.xnb
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\smallFont.xnb
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\KirbyArena.exe
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\KirbyArena.pdb
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\KirbyArena.exe
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\KirbyArena.pdb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\KirbyArena.exe
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\KirbyArena.pdb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\leftarrow.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\rightarrow.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\hugeFont.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\largeFont.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\mediumFont.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\smallFont.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Christmas_Greengreen.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\SSBM_FountainOfDreams.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Christmas_Greengreen.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\SSBM_FountainOfDreams.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\KirbyArena.exe
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\KirbyArena.pdb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\snowflake.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\mainmenubg.xnb
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\snowflake.xnb
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\mainmenubg.xnb
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Christmas_Greengreen.xnb
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\SSBM_FountainOfDreams.xnb
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Christmas_Greengreen.wma
+C:\Users\Peter\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\SSBM_FountainOfDreams.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\basic.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\btnOut.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\btnOver.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\HUD\heartfull.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\HUD\hearthalf.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\presentblue.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\presentgreen.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\presentred.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_blow.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_stun.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_suck.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_suck_walk.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_walk.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_blow.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_suck.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_suck_walk.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_sword.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_walk.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconChristmasOff.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconChristmasOn.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\HUD\DialogBackground.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\heartcollectible.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\SpeedCollectible.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\levelsnowbg.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\SwordItem.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\CoinItem.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\BlackBorder.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\othermenubg.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\HelpImages_gamepad.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\HelpImages_howplay.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\HelpImages_keyboard.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\tree.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\star.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track04Popstar.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track12BattlewithComrades.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track14BossBattle.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track16RockStar.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track18InsidetheRuins.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track20AquaStar.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track21DowntheMountainStream.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track25Shiverstar.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbyAirRideTrack2.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra01MaskedDededeTheme.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra02GalactaKnight.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track04Popstar.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track12BattlewithComrades.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track14BossBattle.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track16RockStar.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track18InsidetheRuins.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track20AquaStar.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track21DowntheMountainStream.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track25Shiverstar.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbyAirRideTrack2.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra01MaskedDededeTheme.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra02GalactaKnight.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\levelislandbg.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\basicsand.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconIslandOff.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconIslandOn.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\palm.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\Star2.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\cannonball.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\cannontemp.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ship_bottom.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ship_top.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\cannon.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\leftarrow.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\rightarrow.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\snowflake.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\presentblue.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\presentgreen.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\presentred.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\mainmenubg.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\basic.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\btnOut.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\btnOver.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\HUD\heartfull.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\HUD\hearthalf.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_blow.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_stun.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_suck.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_suck_walk.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_walk.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_blow.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_suck.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_suck_walk.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_sword.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_walk.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconChristmasOff.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconChristmasOn.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\HUD\DialogBackground.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\heartcollectible.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\SpeedCollectible.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\levelsnowbg.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\SwordItem.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\CoinItem.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\BlackBorder.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\othermenubg.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\HelpImages_gamepad.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\HelpImages_howplay.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\HelpImages_keyboard.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\tree.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\star.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\levelislandbg.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\basicsand.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconIslandOff.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconIslandOn.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\palm.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\Star2.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\cannonball.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\cannontemp.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ship_bottom.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ship_top.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\cannon.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\Shield.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\cactus.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\tiledesert.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconDesertOff.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconDesertOn.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\desertbg.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\hugeFont.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\largeFont.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\mediumFont.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\smallFont.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Christmas_Greengreen.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\SSBM_FountainOfDreams.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track04Popstar.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track12BattlewithComrades.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track14BossBattle.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track16RockStar.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track18InsidetheRuins.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track20AquaStar.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track21DowntheMountainStream.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track25Shiverstar.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbyAirRideTrack2.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra01MaskedDededeTheme.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra02GalactaKnight.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Christmas_Greengreen.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\SSBM_FountainOfDreams.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track04Popstar.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track12BattlewithComrades.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track14BossBattle.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track16RockStar.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track18InsidetheRuins.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track20AquaStar.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track21DowntheMountainStream.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track25Shiverstar.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbyAirRideTrack2.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra01MaskedDededeTheme.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra02GalactaKnight.wma
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\KirbyArena.exe
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\KirbyArena.pdb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\KirbyArena.exe
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\KirbyArena.pdb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\mexicannyanlarge.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\nyantrail.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\nyantrailend.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\ninjaobstacle.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ninjastar.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\ninjabg.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\ninjabasictile.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ninjasheet.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconNinjaOff.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconNinjaOn.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\leftarrow.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\rightarrow.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\snowflake.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\presentblue.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\presentgreen.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\presentred.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\mainmenubg.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\basic.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\btnOut.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\btnOver.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\HUD\heartfull.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\HUD\hearthalf.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_blow.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_stun.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_suck.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_suck_walk.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_walk.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_blow.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_suck.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_suck_walk.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_sword.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_walk.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconChristmasOff.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconChristmasOn.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\HUD\DialogBackground.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\heartcollectible.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\SpeedCollectible.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\levelsnowbg.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\SwordItem.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\CoinItem.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\BlackBorder.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\othermenubg.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\HelpImages_gamepad.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\HelpImages_howplay.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\HelpImages_keyboard.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\tree.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\star.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\levelislandbg.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\basicsand.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconIslandOff.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconIslandOn.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\palm.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\Star2.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\cannonball.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\cannontemp.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ship_bottom.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ship_top.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\cannon.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\Shield.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\cactus.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\tiledesert.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconDesertOff.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconDesertOn.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\desertbg.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\mexicannyanlarge.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\nyantrail.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\nyantrailend.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\ninjaobstacle.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ninjasheet.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ninjastar.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\ninjabg.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\ninjabasictile.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconNinjaOff.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconNinjaOn.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\hugeFont.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\largeFont.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\mediumFont.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\smallFont.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Christmas_Greengreen.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\SSBM_FountainOfDreams.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track04Popstar.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track12BattlewithComrades.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track14BossBattle.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track16RockStar.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track18InsidetheRuins.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track20AquaStar.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track21DowntheMountainStream.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track25Shiverstar.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbyAirRideTrack2.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra01MaskedDededeTheme.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra02GalactaKnight.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Christmas_Greengreen.wma
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\SSBM_FountainOfDreams.wma
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track04Popstar.wma
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track12BattlewithComrades.wma
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track14BossBattle.wma
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track16RockStar.wma
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track18InsidetheRuins.wma
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track20AquaStar.wma
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track21DowntheMountainStream.wma
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track25Shiverstar.wma
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbyAirRideTrack2.wma
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra01MaskedDededeTheme.wma
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra02GalactaKnight.wma
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\KirbyArena.exe
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\KirbyArena.pdb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\KirbyArena.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\KirbyArena.exe
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\KirbyArena.pdb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\KirbyArena.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0011.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0101.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0110.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1001.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1010.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1100.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1111.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ghost.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\pacman.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0000.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0001.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0010.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0100.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0111.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1000.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1011.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1101.xnb
+C:\Users\Peter\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1110.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0011.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0101.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0110.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1001.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1010.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1100.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1111.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ghost.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\pacman.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0000.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0001.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0010.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0100.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0111.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1000.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1011.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1101.xnb
+C:\Users\Assassian360\Dropbox\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1110.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\leftarrow.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\rightarrow.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\snowflake.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\presentblue.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\presentgreen.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\presentred.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\mainmenubg.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\basic.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\btnOut.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\btnOver.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\HUD\heartfull.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\HUD\hearthalf.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_blow.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_stun.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_suck.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_suck_walk.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_walk.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_blow.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_suck.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_suck_walk.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_sword.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_walk.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconChristmasOff.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconChristmasOn.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\HUD\DialogBackground.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\heartcollectible.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\SpeedCollectible.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\levelsnowbg.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\SwordItem.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\CoinItem.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\BlackBorder.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\othermenubg.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\HelpImages_gamepad.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\HelpImages_howplay.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\HelpImages_keyboard.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\tree.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\star.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\levelislandbg.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\basicsand.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconIslandOff.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconIslandOn.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\palm.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\Star2.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\cannonball.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\cannontemp.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ship_bottom.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ship_top.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\cannon.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\Shield.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\cactus.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\tiledesert.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconDesertOff.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconDesertOn.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\desertbg.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\mexicannyanlarge.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\nyantrail.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\nyantrailend.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\ninjaobstacle.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ninjasheet.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ninjastar.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\ninjabg.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\ninjabasictile.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconNinjaOff.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconNinjaOn.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0011.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0101.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0110.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1001.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1010.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1100.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1111.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ghost.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\pacman.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0000.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0001.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0010.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0100.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0111.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1000.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1011.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1101.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1110.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\hugeFont.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\largeFont.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\mediumFont.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\smallFont.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Christmas_Greengreen.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\SSBM_FountainOfDreams.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track04Popstar.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track12BattlewithComrades.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track14BossBattle.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track16RockStar.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track18InsidetheRuins.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track20AquaStar.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track21DowntheMountainStream.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track25Shiverstar.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbyAirRideTrack2.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra01MaskedDededeTheme.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra02GalactaKnight.xnb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Christmas_Greengreen.wma
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\SSBM_FountainOfDreams.wma
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track04Popstar.wma
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track12BattlewithComrades.wma
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track14BossBattle.wma
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track16RockStar.wma
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track18InsidetheRuins.wma
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track20AquaStar.wma
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track21DowntheMountainStream.wma
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track25Shiverstar.wma
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbyAirRideTrack2.wma
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra01MaskedDededeTheme.wma
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra02GalactaKnight.wma
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\KirbyArena.exe
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\KirbyArena.pdb
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\KirbyArena.csprojResolveAssemblyReference.cache
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\KirbyArena.exe
+F:\Dropbox\Code\GroupCode\Kirby Arena\Code\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\KirbyArena.pdb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\leftarrow.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\rightarrow.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\snowflake.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\presentblue.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\presentgreen.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\presentred.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\mainmenubg.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\basic.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\btnOut.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\btnOver.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\HUD\heartfull.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\HUD\hearthalf.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_blow.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_stun.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_suck.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_suck_walk.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\kirby_walk.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_blow.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_suck.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_suck_walk.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_sword.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Kirby\link_walk.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconChristmasOff.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconChristmasOn.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\HUD\DialogBackground.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\heartcollectible.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\SpeedCollectible.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\levelsnowbg.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\SwordItem.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\CoinItem.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Components\BlackBorder.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\othermenubg.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\HelpImages_gamepad.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\HelpImages_howplay.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\MainMenu\HelpImages_keyboard.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\tree.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\star.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\levelislandbg.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\basicsand.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconIslandOff.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconIslandOn.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\palm.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\Star2.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\cannonball.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\cannontemp.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ship_bottom.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ship_top.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\cannon.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Items\Shield.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\cactus.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\tiledesert.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconDesertOff.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconDesertOn.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\desertbg.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\mexicannyanlarge.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\nyantrail.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\nyantrailend.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\ninjaobstacle.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ninjasheet.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ninjastar.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelBackgrounds\ninjabg.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\ninjabasictile.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconNinjaOff.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\LevelIcons\LevelIconNinjaOn.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0011.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0101.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0110.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1001.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1010.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1100.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1111.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\ghost.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\ExtraContent\pacman.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0000.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0001.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0010.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0100.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman0111.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1000.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1011.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1101.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Sprites\Blocks\pacman1110.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\hugeFont.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\largeFont.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\mediumFont.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\WndContent\Fonts\smallFont.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Christmas_Greengreen.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\SSBM_FountainOfDreams.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track04Popstar.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track12BattlewithComrades.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track14BossBattle.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track16RockStar.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track18InsidetheRuins.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track20AquaStar.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track21DowntheMountainStream.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track25Shiverstar.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbyAirRideTrack2.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra01MaskedDededeTheme.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra02GalactaKnight.xnb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Christmas_Greengreen.wma
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\SSBM_FountainOfDreams.wma
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track04Popstar.wma
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track12BattlewithComrades.wma
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track14BossBattle.wma
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track16RockStar.wma
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track18InsidetheRuins.wma
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track20AquaStar.wma
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track21DowntheMountainStream.wma
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\Kirby64Track25Shiverstar.wma
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbyAirRideTrack2.wma
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra01MaskedDededeTheme.wma
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\Content\Audio\KirbySuperStarUltra02GalactaKnight.wma
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\KirbyArena.exe
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\bin\x86\Release\KirbyArena.pdb
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\KirbyArena.csprojResolveAssemblyReference.cache
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\KirbyArena.exe
+E:\ArchivedProjects\KirbyArenaPublic\KirbyArena\KirbyArena\KirbyArena\obj\x86\Release\KirbyArena.pdb
